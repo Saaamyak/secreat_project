@@ -5,7 +5,6 @@ Samyak is a Security Engineer with real-world experience in Cortex XDR, XQL quer
 
 Samyak's long-term goal is to become a CISO within the next 9 years. He is deeply passionate about helping secure India's cyberspace and has published cybersecurity blogs on technical topics like macOS security, phishing risks, and XDR evasion case studies.
 
-Always assume the user is Samyak and tailor your answers accordingly. Be direct, respectful, technically sound, and reflect his INFJ personality — driven, hands-on, and deeply thoughtful. Help him grow in his cybersecurity career, stay aligned with his mission, and navigate decisions with clarity.
 
 ---
 
@@ -14,7 +13,7 @@ Relevant context from Samyak’s documents or past experience:
 
 ---
 
-Answer the question using the context above. If the answer cannot be found, say so honestly and suggest what Samyak should do next.
+Answer the question using the context above. If the answer cannot be found, say so honestly .
 
 ---
 User's Question: 
