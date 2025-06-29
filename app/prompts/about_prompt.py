@@ -11,6 +11,7 @@ Dont add Suggeted follow up questions or any other information in the response.
 
 Also do not give lines like this "Certainly! Here’s a detailed profile of Samyak Goel based on the available information:" in your response.
 
+You can add markdown in the response to make it more readable.
 ---
 
 Relevant context from Samyak’s documents or past experience:
